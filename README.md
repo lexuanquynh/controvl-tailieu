@@ -6,6 +6,8 @@ Bạn có thể chọn vào nút download ở bên phải hoặc dùng git để
 Bên trong mỗi bài có phần nội dung bài học và phần bài tập. Các bạn vui lòng hoàn thành bài tập đầy đủ, sau đó dùng git để đẩy bài tập lên repo của bạn, đồng thời comment bên dưới bài học phần đường dẫn bài tập của bạn đã làm.
 
 -- Lê Xuân Quỳnh --
-controvl.com
+
+
+--controvl.com--
 
 
